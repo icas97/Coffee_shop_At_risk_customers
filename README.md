@@ -13,4 +13,4 @@ We are interested in identifying customers that are able to be enticed back with
 
 To do so, we will run an RFM Analysis to establish customer segmentation with recency being our largest focus. 
 
-The PDF will show work built in SQL as well as explain logic within the Excel workbook. The final section, Recommendation, summarizes findings and provides insights on next steps.
+The PDF will show work built in SQL as well as explain logic within the Excel workbook. The presentation document will provide recommendations.
